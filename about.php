@@ -14,8 +14,15 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h1>Sobre</h1>
-                    <p>Projeto de trabaho de conclusão de curso</p>
-
+                    <p>
+                      Trabalho de Conclusão de Curso desenvolvido em cumprimento
+                      à exigência curricular do Curso Superior de Tecnologia em Segurança da Informação na FATEC (Faculdade de Tecnologia)
+                      de Americana, sob a orientação do Prof. Esp.
+                      <a href="https://br.linkedin.com/in/marcuslahr" target="_blank">Marcus Vinicius Lahr Giraldi</a>.
+                    </p>
+                    <p>A aplicação desenvolvida com o untuito de identificar possíveis falhas de segurança relacionadas ao XSS (<i>Cross Site Scripting</i>).</p>
+                    <p><strong>Data:</strong> <time>Junho de 2018</time></p>
+                    <p><strong>Área de concentração:</strong> Análise de vulnerabilidades.</p>
                 </div>
             </div>
         </div>
